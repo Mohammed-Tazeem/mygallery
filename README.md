@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+For Accessing the website Click on the link https://mohammed-tazeem.github.io/mygallery/
 
 ## Available Scripts
 
